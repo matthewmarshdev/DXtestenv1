@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\marshm\\Desktop\\bootcamp_Class_Repo\\11-16-2017-DENVER-Class-Repository-FSF-2"
+		},
+		{
+			"path": "C:\\Users\\marshm\\Desktop\\Salesforce OIT\\SalesforceDXTest\\TestProject"
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.osx": {
+			"SFDX_SET_CLIENT_IDS": "sfdx-vscode"
+		},
+		"terminal.integrated.env.linux": {
+			"SFDX_SET_CLIENT_IDS": "sfdx-vscode"
+		},
+		"terminal.integrated.env.windows": {
+			"SFDX_SET_CLIENT_IDS": "sfdx-vscode"
+		}
+	}
+}

@@ -1,0 +1,205 @@
+[
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app",
+        {
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519316560245,
+            "changeTime": 1519316560245,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main",
+        {
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519316560245,
+            "changeTime": 1519316560245,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default",
+        {
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519319058311,
+            "changeTime": 1519319058311,
+            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519316560246,
+            "changeTime": 1519316560246,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT",
+        {
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519316818467,
+            "changeTime": 1519316818467,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 404,
+            "modifiedTime": 1519319058295,
+            "changeTime": 1519319058295,
+            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9708,
+            "modifiedTime": 1519319058308,
+            "changeTime": 1519319058308,
+            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 698,
+            "modifiedTime": 1519323189259,
+            "changeTime": 1519323189259,
+            "contentHash": "baa40aad81b42e04d222c97f3d9d25d905063889"
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519319058294,
+            "changeTime": 1519319058294,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\objects\\Account",
+        {
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519319058292,
+            "changeTime": 1519319058292,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519319058291,
+            "changeTime": 1519319058291,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519319058307,
+            "changeTime": 1519319058307,
+            "contentHash": "b2aa44986320a18245301bea220f7fe3f37f55d0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\permissionsets",
+        {
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519319058312,
+            "changeTime": 1519319058312,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\AccountController.cls",
+        {
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\AccountController.cls",
+            "isDirectory": false,
+            "size": 88,
+            "modifiedTime": 1519322546959,
+            "changeTime": 1519322546960,
+            "contentHash": "6ee7b968c3fdc18a21fccb9c245e392c62dfd374",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\AccountController.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1519322440512,
+            "changeTime": 1519322440512,
+            "contentHash": "009dea813ac2a75cc97e39cbe424285f551f3488",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ]
+]

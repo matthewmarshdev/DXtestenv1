@@ -1,0 +1,535 @@
+[
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519322440512,
+            "changeTime": 1519322440512,
+            "contentHash": "ea0e116a34589803164b8772b2c8a46f06b28646",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519316560245,
+            "changeTime": 1519316560245,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519324197214,
+            "changeTime": 1519324197214,
+            "contentHash": "887c18dbdfa051746daf1764f46b5c9d1c405aaa"
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519323523921,
+            "changeTime": 1519323523921,
+            "contentHash": "f12ac00d1bf391e9ef80c5689b9dc1453e5a06d6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT",
+        {
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519323399035,
+            "changeTime": 1519323399035,
+            "contentHash": "83f8854c26e763a10661f126c172df7b6a458a3f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 404,
+            "modifiedTime": 1519319058295,
+            "changeTime": 1519319058295,
+            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9578,
+            "modifiedTime": 1519322984479,
+            "changeTime": 1519322984479,
+            "contentHash": "c8c7eb16008d7b17df4b377876e88238b626e1d0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 698,
+            "modifiedTime": 1519323189259,
+            "changeTime": 1519323189259,
+            "contentHash": "baa40aad81b42e04d222c97f3d9d25d905063889",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519319058294,
+            "changeTime": 1519319058294,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519319058292,
+            "changeTime": 1519319058292,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519319058291,
+            "changeTime": 1519319058291,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519319058307,
+            "changeTime": 1519319058307,
+            "contentHash": "b2aa44986320a18245301bea220f7fe3f37f55d0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519319058312,
+            "changeTime": 1519319058312,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\AccountController.cls",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 88,
+            "modifiedTime": 1519322546959,
+            "changeTime": 1519322546960,
+            "contentHash": "6ee7b968c3fdc18a21fccb9c245e392c62dfd374",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\AccountController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1519322440512,
+            "changeTime": 1519322440512,
+            "contentHash": "009dea813ac2a75cc97e39cbe424285f551f3488",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocator",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519323428213,
+            "changeTime": 1519323428213,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocatorApp",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocatorApp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519323523938,
+            "changeTime": 1519323523938,
+            "contentHash": "c55c10465605b8ca4be8c15dde68ca869f41342a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1519323428212,
+            "changeTime": 1519323428212,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 169,
+            "modifiedTime": 1519323863535,
+            "changeTime": 1519323863536,
+            "contentHash": "31251dc7642d9e1d8394a6347e5134d936ad0d55",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1519323428203,
+            "changeTime": 1519323428203,
+            "contentHash": "dfe99a871ed485dfde85a92f9ef175c42e82cbc9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 99,
+            "modifiedTime": 1519323861671,
+            "changeTime": 1519323861672,
+            "contentHash": "3e5ffe823b52d945a011f12c2b139e20b3d981c2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1519323428214,
+            "changeTime": 1519323428214,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1519323428210,
+            "changeTime": 1519323428210,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1519323428205,
+            "changeTime": 1519323428205,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1519323428206,
+            "changeTime": 1519323428206,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1519323428209,
+            "changeTime": 1519323428209,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocatorApp\\AccountLocatorApp.app",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocatorApp\\AccountLocatorApp.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1519323859247,
+            "changeTime": 1519323859247,
+            "contentHash": "bd2c702133e418609d57e3869280d3d8a558ca23",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocatorApp\\AccountLocatorApp.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocatorApp\\AccountLocatorApp.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 251,
+            "modifiedTime": 1519323523925,
+            "changeTime": 1519323523925,
+            "contentHash": "105c14a4e488efc6a1f11f7c1d341601307dcc3c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocatorApp\\AccountLocatorApp.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocatorApp\\AccountLocatorApp.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1519323523938,
+            "changeTime": 1519323523938,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocatorApp\\AccountLocatorApp.css",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocatorApp\\AccountLocatorApp.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1519323523932,
+            "changeTime": 1519323523932,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocatorApp\\AccountLocatorApp.svg",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocatorApp\\AccountLocatorApp.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1519323523937,
+            "changeTime": 1519323523937,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocatorApp\\AccountLocatorAppController.js",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocatorApp\\AccountLocatorAppController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1519323523928,
+            "changeTime": 1519323523928,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocatorApp\\AccountLocatorAppHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocatorApp\\AccountLocatorAppHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1519323523930,
+            "changeTime": 1519323523930,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocatorApp\\AccountLocatorAppRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\aura\\AccountLocatorApp\\AccountLocatorAppRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1519323523935,
+            "changeTime": 1519323523935,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1519324197217,
+            "changeTime": 1519324197217,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+        }
+    ],
+    [
+        "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\marshm\\Desktop\\DX WERK\\OIT\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519324197217,
+            "changeTime": 1519324197217,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+        }
+    ]
+]
